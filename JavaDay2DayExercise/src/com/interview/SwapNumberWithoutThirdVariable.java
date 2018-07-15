@@ -27,6 +27,11 @@ public class SwapNumberWithoutThirdVariable {
 		a=b-~a-1;
 		a=a+~b+1;
 		a=a+~b+1;*/
+		
+		//5 logic
+		a=a*b;//a=10*20=200
+		b=a/b;//b=200/20=10
+		a=a/b;//a=200/10=20
 		System.out.println("After swaping number: "+a+" "+b);
 	}
 }
