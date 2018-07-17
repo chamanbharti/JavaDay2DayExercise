@@ -1,5 +1,5 @@
 package com.interview.patterns;
-//Pattern1
+//Pattern1 program
 public class Pattern1 {
 
 	public static void main(String[] args) {
