@@ -7,7 +7,7 @@ public class SwapTwoArray {
 	public static void main(String[] args) {
 		int a[] = new int[10];
 		int b[] = new int[10];
-		int c[] = new int[10];
+		int c[] = new int[11];
 		
 		Scanner input = new Scanner(System.in);
 		System.out.println("Enter first array:");
